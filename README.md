@@ -31,7 +31,7 @@ add it to your pom.xml as dependency and annotationProcessor:
                         <path>
                             <groupId>com.meubli</groupId>
                             <artifactId>hibernate-columnmodelgen</artifactId>
-                            <version>1.0-SNAPSHOT</version>
+                            <version>1.0.0</version>
                         </path>
                     </annotationProcessorPaths>
                 </configuration>
